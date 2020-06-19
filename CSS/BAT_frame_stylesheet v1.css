@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	/*align-content: center;*/
+	width: 1490px;
+	
+}
+.lf_col {
+	width: 280px;
+	height: 1050px;
+	background-color: darkgray;
+	float: left;
+}
+.frame {
+	width: 800px;
+	height: 1050px;
+	margin-left: 5px; 
+	margin-left: solid black;	
+	padding-left: 40px;
+	padding-right: 40px;
+	align-content: center;
+	background-color: #aa3939;
+	color: white;
+	float: left;
+}
+.font_a {
+	font-size: 14px;
+}
+.font_b {
+	font-size: 16px;
+}
+.font_c {
+	font-size: 19px;
+}
+.font_d {
+	font-size: 22px;
+}
+.rt_col {
+	width: 325px;
+	height: 1050px;
+	/*background-color: darkgray;*/
+	float: right;
+}
+.licencetag {
+	width: 1480px;
+	height: 30px;
+	float: left;
+	background-color: #550000;
+	font-style: italic;}
+#tm_0 {
+	float: left;
+	width: 700px;
+	height: 30px;
+	text-align: right;
+	color: antiquewhite;
+}
+#tm_1 {
+	float: left;
+	height: 30px;
+	width: 120px;
+	text-align: center;
+	color: antiquewhite;
+}
+#tm_1:hover {
+	color: yellow;
+	font-size: 1.1em;
+}
+#tm_2 {
+	float: left;
+	width: 45px;
+	color: antiquewhite;
+}
+#tm_2:hover {
+	color: yellow;
+	font-size: 1.1em;
+}
+#tm_3 {
+	float: left;
+	width: 120px;
+	color: antiquewhite;
+}
+ #tm_3:hover {
+	color: yellow;
+	font-size: 1.1em;
+	}

@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+Body {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-display: auto;
+	background-color: grey;
+	font-size: 18px;
+}
+.intro {
+	text-align: center;
+	font-size: 22px;
+}
+.lf_col { 
+	width: 30%;
+	height: 442px;
+	float: left;
+}
+.rt_col { 
+	width: 70%;
+	float: right;
+}
+.mem_info{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+.BAT_note {
+	text-align: center;
+}

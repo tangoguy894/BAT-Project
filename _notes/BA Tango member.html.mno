@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="notes" value="This is the initial versioon of the Bay area tango registration form. It will input all cliend contact information and return a thankyou note along with clients enrolement date and membership ID." />
+	<infoitem key="status" value="beta" />
+</info>

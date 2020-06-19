@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+Body {
+	font: sans-serif;
+	background:black;
+}
+.frame_left {
+	height: 600px;
+	width: 35%;
+	float: left;
+}
+.frame_right {
+	width: 65%;
+	height: 600px;
+	float: right;
+	color: antiquewhite;
+}
+.licencetag {
+	width: 100%;
+	height: 15px;
+	font-style: italic;}
+#tm_0 {
+	float: left;
+	width: 700px;
+	height: 15px;
+	text-align: right;
+	color: antiquewhite;
+}
+.RS_ta, .RS_tb, .RS_tc {
+	font-display: auto;
+	font-size: 1.2em;
+	font-style: italic;
+}
+#tm_1 {
+	float: left;
+	height: 15px;
+	width: 120px;
+	text-align: center;
+	color: antiquewhite;
+}
+#tm_1:hover {
+	color: yellow;
+	font-size: 1.1em;
+}
+#tm_2 {
+	float: left;
+	width: 45px;
+	color: antiquewhite;
+}
+#tm_2:hover {
+	color: yellow;
+	font-size: 1.1em;
+}
+#tm_3 {
+	float: left;
+	width: 120px;
+	color: antiquewhite;
+}
+ #tm_3:hover {
+	color: yellow;
+	font-size: 1.1em;
+	}

@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	/*text-align: center;*/
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.intro {
+	height: 240px;
+	text-align: center;
+	font-size: 32px;
+	background-color: #4f4375;
+}
+.lf_col {
+	height: 600px;
+	width: 25%;
+	background-color: #736991;
+	float: left;
+}
+.ctr_col {
+	height: 600px;
+	width: 48%;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 18px;
+	background-color: #474375;
+	float: left;
+	
+}.rt_col {
+	height: 600px;
+	width: 25%;
+	float: left;
+	background-color: #34275d;
+}
+.end_game {
+	height: 160px;
+background-color: gray;
+}
+.shade_1 {
+	height: 160px;
+	width: 20%;
+	float: left;
+	text-align: center;
+	font-size: 18px;
+	background-color: #a6a0b4;
+}
+.shade_2 {
+	height: 160px;
+	width: 20%;
+	float: left;
+	text-align: center;
+	font-size: 18px;
+	background-color: #736991;
+}
+.shade_3 {
+	height: 160px;
+	width: 20%;
+	float: left;
+	text-align: center;
+	font-size: 18px;
+	background-color: #4f4375;
+}
+.shade_4 {
+	height: 160px;
+	width: 20%;
+	float: left;
+	text-align: center;
+	font-size: 18px;
+	background-color: #34275d;
+}
+.shade_5 {
+	height: 160px;
+	width: 20%;
+	float: left;
+	font-size: 18px;
+	text-align: center;
+	background-color: #16083c;
+}
+#show_a, #show_c, #show_e, #show_g, #show_i, #show_t{
+	align-items: center;
+	color: white;
+}
+#show_b, #show_d, #show_f, #show_h, #show_j {
+	align-items: center;
+	color: black;
+}
